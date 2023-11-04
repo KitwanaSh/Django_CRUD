@@ -1,0 +1,9 @@
+username    =   Driver
+email   =   ezekitwana@yehoo.com
+password    =   LearnDjango31
+
+
+/**username    =   rodri
+* email   =   rodriguekitweze@gmail.com
+* password    =   LearnDjango31
+*/
